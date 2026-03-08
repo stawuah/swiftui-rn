@@ -1,6 +1,6 @@
 # Dependencies - installed packages
 node_modules/
-
+docs/
 # Build output - compiled JavaScript and type definitions
 dist/
 
